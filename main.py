@@ -1,3 +1,8 @@
+__author__ = "Guillermo Matas Ruiz"
+__credits__ = ["Guillermo Matas Ruiz"]
+__license__ = "MIT"
+__version__ = "1.0.0"
+
 import html
 import uuid
 
